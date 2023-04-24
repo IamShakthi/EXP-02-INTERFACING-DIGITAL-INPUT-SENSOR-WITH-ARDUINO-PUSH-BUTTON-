@@ -98,7 +98,7 @@ void loop()
 
 Output of the simulation :
 ### BEFORE SIMULATION :
-![OUTPUT](./OFF.png)
+![OUTPUT](./ON.png)
 ### AFTER SIMULATION :
 ![OUTPUT](./ON.png)
 
