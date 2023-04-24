@@ -98,7 +98,7 @@ void loop()
 
 Output of the simulation :
 ### BEFORE SIMULATION :
-![OUTPUT](./OFF.png)
+![OUTPUT](./Screenshot%202023-04-24%20181237.png)
 ### AFTER SIMULATION :
 ![OUTPUT](./ON.png)
 
