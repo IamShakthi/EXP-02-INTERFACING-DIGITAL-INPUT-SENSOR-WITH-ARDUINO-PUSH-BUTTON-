@@ -98,9 +98,9 @@ void loop()
 
 Output of the simulation :
 ### BEFORE SIMULATION :
-![OUTPUT](./off.png)
+![OUTPUT](./OFF.png)
 ### AFTER SIMULATION :
-![OUTPUT](./on1.png)
+![OUTPUT](./ON.png)
 
 ### RESULT :
 Thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad.
